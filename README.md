@@ -1,3 +1,5 @@
--Hello, my name is Serena and I am currently looking for a position as a junior full stack software developer. Please look through my Github to see examples of my code. Please see my LinkedIn for more details and contact information.
+-With a combination of software development skills gained through training plus project experience and interpersonal skills enhanced by working with a range of clients, I am exceptionally suited to develop solutions to complex problems as dictated by the need of the company. I am looking for junior full-stack or back-end software developer positions. Skills include: HTML, CSS, JavaScript, Python, Django, C#, .Net Framework, SQL, as well as familiarity with Git Version Control and Agile methodologies
 
-The following repositories are examples of the projects I did as part of The Tech Academy. 
+Personal Website - www.sepan.dev
+
+Please see [here](https://github.com/sepan314/C-Sharp-.NET-Code/blob/master/README.md) for C#/.NET Framework projects that I have done.
