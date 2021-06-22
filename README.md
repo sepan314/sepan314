@@ -3,3 +3,8 @@ With a combination of software development skills gained through training plus p
 Personal Website - https://sepan.dev
 
 Please see [here](https://github.com/sepan314/C-Sharp-.NET-Code/blob/master/README.md) for C#/.NET Framework projects that I have done.
+
+Please see [here](https://github.com/sepan314/Python-Django-Code) for Python/Django projects that I have done.
+
+
+
